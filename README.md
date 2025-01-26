@@ -1,17 +1,17 @@
-# Project Name
+# 🚀 Project Name
 
 This project consists of two main parts:
 1. **Backend**: A Node.js-based server built with Express and MongoDB.
 2. **Frontend**: A React-based application utilizing modern libraries like Vite, TailwindCSS, and Zustand.
 
-![Preview](./frontend/src/Readme.png)
+![🌟 Preview](./frontend/src/Readme.png)
 
-## Backend
+## 🔧 Backend
 
-### Description
+### 📄 Description
 The backend provides API endpoints and handles the business logic for the application. It includes user authentication, secure data handling, and connection to the MongoDB database.
 
-### Technologies Used
+### 🛠️ Technologies Used
 - **Node.js**
 - **Express**
 - **Mongoose**
@@ -22,10 +22,10 @@ The backend provides API endpoints and handles the business logic for the applic
 - **cors**
 - **mailtrap**
 
-### Scripts
+### 📜 Scripts
 - `start`: Starts the server using nodemon.
 
-### Installation
+### 📝 Installation
 1. Navigate to the backend directory:
    ```bash
    cd backend
@@ -48,12 +48,12 @@ The backend provides API endpoints and handles the business logic for the applic
 
 ---
 
-## Frontend
+## 🎨 Frontend
 
-### Description
+### 📄 Description
 The frontend is a React application that communicates with the backend API to display data and handle user interactions. It uses modern libraries like Zustand for state management, TailwindCSS for styling, and React Router for routing.
 
-### Technologies Used
+### 🛠️ Technologies Used
 - **React**
 - **Vite**
 - **TailwindCSS**
@@ -63,13 +63,13 @@ The frontend is a React application that communicates with the backend API to di
 - **Zustand**
 - **Lucide React**
 
-### Scripts
+### 📜 Scripts
 - `dev`: Runs the development server.
 - `build`: Builds the production-ready files.
 - `lint`: Runs ESLint to check for issues in the code.
 - `preview`: Previews the production build.
 
-### Installation
+### 📝 Installation
 1. Navigate to the frontend directory:
    ```bash
    cd frontend
@@ -85,7 +85,7 @@ The frontend is a React application that communicates with the backend API to di
 
 ---
 
-## Project Setup
+## 🛠️ Project Setup
 
 1. Clone the repository:
    ```bash
@@ -106,12 +106,12 @@ The frontend is a React application that communicates with the backend API to di
 
 ---
 
-## License
+## 📜 License
 This project is licensed under the ISC License.
 
-## Author
-<mohdafzal7534>
+## 👨‍💻 Author
+Mohd Afzal
 
 ---
 
-Feel free to modify this README to include additional details specific to your project.
+Feel free to modify this README to include additional details specific to your project. ✨
