@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Advanced Authentication
 
 This project consists of two main parts:
 1. **Backend**: A Node.js-based server built with Express and MongoDB.
