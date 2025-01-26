@@ -4,7 +4,7 @@ This project consists of two main parts:
 1. **Backend**: A Node.js-based server built with Express and MongoDB.
 2. **Frontend**: A React-based application utilizing modern libraries like Vite, TailwindCSS, and Zustand.
 
-![Preview](./frontend/public/src/Readme.png)
+![Preview](./frontend/src/Readme.png)
 
 ## Backend
 
@@ -110,7 +110,7 @@ The frontend is a React application that communicates with the backend API to di
 This project is licensed under the ISC License.
 
 ## Author
-<Your Name>
+<mohdafzal7534>
 
 ---
 
