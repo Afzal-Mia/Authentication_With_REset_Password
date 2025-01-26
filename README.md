@@ -12,15 +12,15 @@ This project consists of two main parts:
 The backend provides API endpoints and handles the business logic for the application. It includes user authentication, secure data handling, and connection to the MongoDB database.
 
 ### 🛠️ Technologies Used
-- **Node.js**
-- **Express**
-- **Mongoose**
-- **bcryptjs**
-- **jsonwebtoken**
-- **dotenv**
-- **cookie-parser**
-- **cors**
-- **mailtrap**
+- 🟢 **Node.js**
+- 🚀 **Express**
+- 🍃 **Mongoose**
+- 🔒 **bcryptjs**
+- 🛡️ **jsonwebtoken**
+- 🌐 **dotenv**
+- 🍪 **cookie-parser**
+- 🔗 **cors**
+- 📧 **mailtrap**
 
 ### 📜 Scripts
 - `start`: Starts the server using nodemon.
@@ -54,14 +54,14 @@ The backend provides API endpoints and handles the business logic for the applic
 The frontend is a React application that communicates with the backend API to display data and handle user interactions. It uses modern libraries like Zustand for state management, TailwindCSS for styling, and React Router for routing.
 
 ### 🛠️ Technologies Used
-- **React**
-- **Vite**
-- **TailwindCSS**
-- **React Router DOM**
-- **Axios**
-- **Framer Motion**
-- **Zustand**
-- **Lucide React**
+- ⚛️ **React**
+- ⚡ **Vite**
+- 🎨 **TailwindCSS**
+- 🧭 **React Router DOM**
+- 📡 **Axios**
+- 🎥 **Framer Motion**
+- 🐻 **Zustand**
+- ✨ **Lucide React**
 
 ### 📜 Scripts
 - `dev`: Runs the development server.
